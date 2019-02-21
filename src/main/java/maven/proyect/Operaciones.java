@@ -1,4 +1,4 @@
-package maven.poryect;
+package maven.proyect;
 
 public class Operaciones {
 

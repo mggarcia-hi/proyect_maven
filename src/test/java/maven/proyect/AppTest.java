@@ -1,4 +1,4 @@
-package maven.poryect;
+package maven.proyect;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
