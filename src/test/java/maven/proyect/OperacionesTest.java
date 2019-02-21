@@ -13,7 +13,7 @@ public class OperacionesTest extends TestCase {
 	public void testSuma2() {
 		Operaciones op= new Operaciones();
 		int result= op.suma(3, 6);
-		assertEquals(result, 10);
+		assertEquals(result, 9);
 	}
 
 }
